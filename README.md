@@ -13,6 +13,9 @@ More specifically, the created site:
 - uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem;
 - uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages.
 
+d
+
+
 To get started with creating a site, simply:
 
 1. click "[use this template]" to create a GitHub repository
